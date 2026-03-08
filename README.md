@@ -71,12 +71,6 @@ The architecture consists of the following components:
 ---
 ## Project Screenshots
 
-### Architecture Diagram
-
-![Architecture](architecture-diagram.png)
-
----
-
 ### EC2 Instances
 
 Web servers running on Amazon EC2.
