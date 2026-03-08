@@ -107,7 +107,7 @@ CPU utilization monitoring for EC2 instances.
 
 Email notification triggered when CPU utilization crosses threshold.
 
-![SNS](screenshots/sns-email.png)
+![SNS](sns-alert.png)
 
 ---
 ## Project Implementation Steps
