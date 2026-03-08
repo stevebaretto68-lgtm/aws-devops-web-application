@@ -75,7 +75,7 @@ The architecture consists of the following components:
 
 Web servers running on Amazon EC2.
 
-![EC2 Instances](screenshots/ec2-instances.png)
+![EC2 Instances](ec2-instance.png)
 
 ---
 
