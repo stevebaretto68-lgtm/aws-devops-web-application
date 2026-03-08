@@ -83,7 +83,7 @@ Web servers running on Amazon EC2.
 
 Managed database used by the application.
 
-![RDS](screenshots/rds-database.png)
+![RDS](rds-database.png)
 
 ---
 
@@ -91,7 +91,7 @@ Managed database used by the application.
 
 Static files stored in S3 bucket.
 
-![S3](screenshots/s3-bucket.png)
+![S3](s3-bucket.png)
 
 ---
 
@@ -99,7 +99,7 @@ Static files stored in S3 bucket.
 
 CPU utilization monitoring for EC2 instances.
 
-![CloudWatch](screenshots/cloudwatch-alarm.png)
+![CloudWatch](cloudwatch-monitoring.png)
 
 ---
 
